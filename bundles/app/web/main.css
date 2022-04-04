@@ -1,0 +1,32 @@
+.content {
+    padding: 3rem 1.5rem;
+}
+
+.form-check-input {
+    margin-left: 0;
+}
+
+.container h1{
+    text-align: center;
+}
+
+.checkboxes{
+    background-color: gainsboro;
+    padding: 5px 5px 0px 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.form-check{
+    margin-top: 4px;
+}
+
+.card-body{
+    padding: 15px;
+}
+
+.card-body .form-check{
+    margin: 0, 15px;
+}

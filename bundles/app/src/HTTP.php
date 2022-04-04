@@ -1,0 +1,17 @@
+<?php
+
+namespace Project\App;
+
+class HTTP extends \PHPixie\DefaultBundle\HTTP
+{
+    /**
+     * Here we define HTTP processors (e.g. our controllers)
+     * @var array
+     */
+    protected $classMap = array(
+        'checklist'   => 'Project\App\HTTP\Checklist',
+        'messages'   => 'Project\App\HTTP\Messages',
+        'auth'       => 'Project\App\HTTP\Auth',
+        'socialAuth' => 'Project\App\HTTP\Auth\Social'
+    );
+}
