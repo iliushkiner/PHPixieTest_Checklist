@@ -14,16 +14,16 @@ return [
     ],
 
     'social' => [
-        'facebookId'     => '462000028204632',
-        'facebookSecret' => '93cd5049d2824fe07f6c04630aa2c126',
+        'facebookId'     => 'YOUR APP ID',
+        'facebookSecret' => 'YOUR APP SECRET',
 
         'twitterId'     => 'YOUR APP ID',
         'twitterSecret' => 'YOUR APP SECRET',
 
-        'googleId'     => '637539339565-1gsmspsupcae097237djij5n3qseml9d.apps.googleusercontent.com',
-        'googleSecret' => 'wlQgOOk6ev83V-YrIq1KHdUm',
+        'googleId'     => 'YOUR APP ID',
+        'googleSecret' => 'YOUR APP SECRET',
 
-        'vkId'     => '7831251',
-        'vkSecret' => 'zY5ebTtn3jzXvICwghqA',
+        'vkId'     => 'YOUR APP ID',
+        'vkSecret' => 'zYOUR APP SECRET',
     ]
 ];
