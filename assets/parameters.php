@@ -24,6 +24,6 @@ return [
         'googleSecret' => 'YOUR APP SECRET',
 
         'vkId'     => 'YOUR APP ID',
-        'vkSecret' => 'zYOUR APP SECRET',
+        'vkSecret' => 'YOUR APP SECRET',
     ]
 ];
